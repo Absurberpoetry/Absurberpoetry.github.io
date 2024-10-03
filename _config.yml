@@ -204,7 +204,7 @@ lazy_load_disqus : false
         data-lang="zh-CN"
         crossorigin="anonymous"
         async>
-</script>
+ </script>
 # ---------------- #
 #      Search      #
 # ---------------- #
